@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\obj\Debug\Kiemtra.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\obj\Debug\Kiemtra.frmQuanLyDanhBa.resources
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\obj\Debug\Kiemtra.frmThemNhom.resources
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\obj\Debug\Kiemtra.Properties.Resources.resources
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\obj\Debug\Kiemtra.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\obj\Debug\Kiemtra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\bin\Debug\Kiemtra.exe.config
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\bin\Debug\Kiemtra.exe
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\bin\Debug\Kiemtra.pdb
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\obj\Debug\Kiemtra.exe
+C:\Users\Admin\source\repos\Kiemtra\Kiemtra\obj\Debug\Kiemtra.pdb
